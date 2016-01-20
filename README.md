@@ -1,0 +1,5 @@
+# SafePresent
+安全 Present 控制器
+这是一个UIViewController的类别，主要处理PresentViewcontroller业务，有些时候present受业务影响，经常会present多次，
+如果一个ViewController 当前已经有了PresentViewController的时候，再次present是无效的，所以有了这个扩展。
+have fun！
