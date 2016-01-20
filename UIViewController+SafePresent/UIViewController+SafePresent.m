@@ -1,6 +1,6 @@
 //
 //  UIViewController+SafePresent.m
-//  YFNewsUI
+//  
 //
 //  Created by kevin on 15/12/28.
 //  Copyright © 2015年 kevin. All rights reserved.
